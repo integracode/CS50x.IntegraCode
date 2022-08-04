@@ -10,7 +10,7 @@ Una vez concluido el proceso de preinscripción nos contactaremos vía e-mail (m
 - ¿El curso tiene algún costo?
 El curso es totalmente gratuito.
 - ¿Cuáles son los requisitos para tomar el curso?
-  - Ser mayor de 16 años.
+  - Ser estudiante de preparatoria.
   - Tener una computadora e internet con la que pueda trabajar.
   - Tener interés por aprender sobre informática y programación.
 - ¿Qué necesito para finalizar el curso?
